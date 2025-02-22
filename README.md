@@ -1,6 +1,6 @@
 # BlinkIT-PowerBI-Interactive-Dashboard.
 I developed this project on PowerBI, this provides real-time insights into sales, customer trends, and operations. It features dynamic visualizations, filters, and drill-downs for deeper analysis. Users can track order volumes, delivery performance efficiently. This dashboard enhances decision-making with fast, data-driven insights.
-
+# Dataset used : https://github.com/AnanyaPriyaa/BlinkIT-PowerBI-Interactive-Dashboard./blob/main/BlinkIT%20Grocery%20Data.xlsx
 # Features:Key Performance Indicators (KPIs)
 The dashboard focuses on the following primary KPIs:
 1) Total Sales: Overall revenue generated from all items sold ($1.20M)
