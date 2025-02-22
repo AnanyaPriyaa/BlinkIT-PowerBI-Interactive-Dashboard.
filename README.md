@@ -2,7 +2,7 @@
 I developed this project on PowerBI, this provides real-time insights into sales, customer trends, and operations. It features dynamic visualizations, filters, and drill-downs for deeper analysis. Users can track order volumes, delivery performance efficiently. This dashboard enhances decision-making with fast, data-driven insights.
 
 # Features:Key Performance Indicators (KPIs)
-##The dashboard focuses on the following primary KPIs:
+The dashboard focuses on the following primary KPIs:
 1) Total Sales: Overall revenue generated from all items sold ($1.20M)
 2) Average Sales: Average revenue per sale ($141)
 3) Number of Items: Total count of different items sold (8523)
@@ -16,7 +16,7 @@ I developed this project on PowerBI, this provides real-time insights into sales
 5. Outlet Size and Location Analysis: Provides insights on sales performance by outlet size and location tier
 6. Outlet Type Comparison: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
 
-#Insights & Conclusions
+#Insights & Conclusions:
 1. Strong Sales Performance: Achieved over $1M in total sales, reflecting solid business growth.
 2. Health-Conscious Consumer Trends: Preference for low-fat products highlights a growing demand for healthier options.
 3. Top-Selling Categories: Fruits, vegetables, and snack foods lead in sales and customer preference.
