@@ -16,7 +16,7 @@ The dashboard focuses on the following primary KPIs:
 5. Outlet Size and Location Analysis: Provides insights on sales performance by outlet size and location tier
 6. Outlet Type Comparison: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
 
-#Insights & Conclusions:
+# Insights & Conclusions:
 1. Strong Sales Performance: Achieved over $1M in total sales, reflecting solid business growth.
 2. Health-Conscious Consumer Trends: Preference for low-fat products highlights a growing demand for healthier options.
 3. Top-Selling Categories: Fruits, vegetables, and snack foods lead in sales and customer preference.
